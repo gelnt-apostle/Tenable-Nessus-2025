@@ -14,7 +14,7 @@
 
 ### Setup
 
-    git clone https://github.com/xiv3r/Nessus_Professional.git
+    git clone https://github.com/gelnt-apostle/Tenable-Nessus-2025.git
 
     cd Nessus_Professional
 
