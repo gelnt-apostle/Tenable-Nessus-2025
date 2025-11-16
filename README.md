@@ -18,9 +18,9 @@
 
     cd Nessus_Professional
 
-    chmod +x Ramisec-Nessus-Installer.sh (Must be run as Root)
+    sudo chmod +x Ramisec-Nessus-Installer.sh
     
-    ./Ramisec-Nessus-Installer.sh (Must be run as Root)
+    sudo ./Ramisec-Nessus-Installer.sh (Must be run as Root)
     
     sudo docker pull ramisec/nessus
     
