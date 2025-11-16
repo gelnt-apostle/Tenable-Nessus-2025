@@ -18,7 +18,9 @@
 
     cd Nessus_Professional
 
-    wget https://github.com/xiv3r/Nessus_Professional/releases/download/Nessus/backup-image-ramisec_nessus.tar.gz
+    chmod +x Ramisec-Nessus-Installer.sh (Must be run as Root)
+    
+    ./Ramisec-Nessus-Installer.sh (Must be run as Root)
     
     sudo docker pull ramisec/nessus
     
