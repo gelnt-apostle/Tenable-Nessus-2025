@@ -51,11 +51,3 @@ Verify new password: `password`
 
 
 #### Go to 👉 [BROWSER](https://localhost:8834) or copy `https://localhost:8834/` and paste into the browser.
-
-
-<h1 align="center">
-Update
-
-</h1>
-  
-    curl https://raw.githubusercontent.com/xiv3r/Nessus_Professional/main/nessus_update_debian_only.sh | sudo bash
